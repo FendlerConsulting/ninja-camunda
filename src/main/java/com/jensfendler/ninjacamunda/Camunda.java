@@ -33,7 +33,7 @@ import org.camunda.bpm.engine.TaskService;
 /**
  * Interface for the Camunda BPMN process engine.
  * 
- * @author Jens Fendler <jf@jensfendler.com>
+ * @author Jens Fendler
  *
  */
 public interface Camunda {

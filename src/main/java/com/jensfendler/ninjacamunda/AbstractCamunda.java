@@ -36,7 +36,7 @@ import org.camunda.bpm.engine.TaskService;
  * Since all Camunda components are available through the {@link ProcessEngine}
  * object, this class provides some convenience methods.
  * 
- * @author Jens Fendler <jf@jensfendler.com>
+ * @author Jens Fendler
  *
  */
 public abstract class AbstractCamunda implements Camunda {

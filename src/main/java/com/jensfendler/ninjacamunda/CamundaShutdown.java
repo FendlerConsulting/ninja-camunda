@@ -27,7 +27,7 @@ import ninja.lifecycle.Dispose;
 /**
  * Shutdown hook for the Camunda process engine.
  * 
- * @author Jens Fendler <jf@jensfendler.com>
+ * @author Jens Fendler
  *
  */
 @Singleton

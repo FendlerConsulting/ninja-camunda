@@ -27,7 +27,7 @@ import com.google.inject.Singleton;
  * To use it, <code>install()</code> a new instance of this module in your
  * application's <code>conf.Module</code> class.
  * 
- * @author Jens Fendler <jf@jensfendler.com>
+ * @author Jens Fendler
  *
  */
 public class NinjaCamundaModule extends AbstractModule {

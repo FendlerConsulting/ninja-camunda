@@ -34,7 +34,7 @@ import ninja.utils.NinjaProperties;
  * within a {@link Camunda} implementation to provide access to all parts of the
  * process engine.
  * 
- * @author Jens Fendler <jf@jensfendler.com>
+ * @author Jens Fendler
  *
  */
 public class CamundaProvider implements Provider<Camunda> {

@@ -21,7 +21,7 @@ import org.camunda.bpm.engine.ProcessEngine;
  * 
  * Default implementation of the {@link Camunda} interface.
  * 
- * @author Jens Fendler <jf@jensfendler.com>
+ * @author Jens Fendler
  *
  */
 public class DefaultCamundaImpl extends AbstractCamunda {
