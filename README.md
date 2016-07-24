@@ -1,5 +1,5 @@
-# ninja-camunda
-This project integrates the [Camunda BPMN process engine](https://camunda.org/) into the [Ninja Framework](https://github.com/ninjaframework/ninja).
+# Ninja Camunda Module
+This project provides integration of the [Camunda BPMN process engine](https://camunda.org/) into the [Ninja Framework](https://github.com/ninjaframework/ninja).
 
 Basic Usage:
 ------------
@@ -27,7 +27,7 @@ You can also use your application's existing database. Camunda will automaticall
 
 Have a look at the class `com.jensfendler.ninjacamunda.CamundaProvider` for an overview of additional properties. 
 
-- Install an instance of the `NinjaCamundaModule` in your Ninja application's `conf.Modules class`:
+- Install an instance of the `NinjaCamundaModule` in your Ninja application's `conf.Modules` class:
 
 ```java
 
