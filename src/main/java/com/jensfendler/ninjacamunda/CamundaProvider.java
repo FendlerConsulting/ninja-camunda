@@ -162,6 +162,7 @@ public class CamundaProvider implements Provider<Camunda> {
 	 * Constructor with injected {@link NinjaProperties}
 	 * 
 	 * @param ninjaProperties
+	 *            injected {@link NinjaProperties}
 	 */
 	@Inject
 	public CamundaProvider(NinjaProperties ninjaProperties) {
@@ -173,6 +174,7 @@ public class CamundaProvider implements Provider<Camunda> {
 	 * 
 	 * @see com.google.inject.Provider#get()
 	 */
+	@Override
 	public Camunda get() {
 		ProcessEngineConfiguration processEngineConfiguration = null;
 

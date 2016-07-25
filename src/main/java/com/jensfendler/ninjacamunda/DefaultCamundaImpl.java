@@ -34,6 +34,10 @@ public class DefaultCamundaImpl extends AbstractCamunda {
 	/**
 	 * Constructor to receive a fully initialized and running
 	 * {@link ProcessEngine}
+	 * 
+	 * @param processEngine
+	 *            the Camunda {@link ProcessEngine} object used to access other
+	 *            components
 	 */
 	public DefaultCamundaImpl(ProcessEngine processEngine) {
 		this.processEngine = processEngine;
