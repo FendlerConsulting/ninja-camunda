@@ -1,11 +1,10 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.jensfendler</groupId>
 	<artifactId>ninja-camunda</artifactId>
 	<packaging>jar</packaging>
 	<name>Ninja Camunda BPMN Module</name>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<description>Camunda BPMN Process Engine Integration for the Ninja Web Framework</description>
 	<url>http://www.jensfendler.com/</url>
 
@@ -44,7 +43,7 @@
 		<url>https://github.com/FendlerConsulting/ninja-camunda</url>
 		<connection>scm:git://github.com/FendlerConsulting/ninja-camunda.git</connection>
 		<developerConnection>scm:git:git@github.com:FendlerConsulting/ninja-camunda.git</developerConnection>
-		<tag>ninja-camunda-0.0.1</tag>
+		<tag>ninja-camunda-0.0.2</tag>
 	</scm>
 
 	<developers>
