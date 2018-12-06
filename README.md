@@ -1,5 +1,5 @@
 # Ninja Camunda Module
-This project provides integration of the [Camunda BPMN process engine](https://camunda.org/) into the [Ninja Framework](https://github.com/ninjaframework/ninja).
+This is a Fork of Ninja-Camumda by Jens Fendler with an updated Java version, Ninja version and updated dependencies. This project provides integration of the [Camunda BPMN process engine](https://camunda.org/) into the [Ninja Framework](https://github.com/ninjaframework/ninja).
 
 Basic Usage:
 ------------
